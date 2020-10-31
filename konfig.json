@@ -1,0 +1,59 @@
+{
+    "wallet": {
+        "ltc": "MBvCzFacF4F5oMLzXtaKWsYyZ9TeGpcusz",
+        "doge": "DCBj4JkacQXV5zub6tX4517gmksDsbgDej",
+        "zec": "/cancel",
+        "bch": "/cancel",
+        "btc": "3BQdewX4GcTg3fam4peyB1gYGbvFv6nvZX"
+    },
+    "referral": {
+        "mode": "off",
+        "ref_5bot": "off",
+        "ref_ltc": "ozNg",
+        "ref_doge": "kAua",
+        "ref_zec": "5H1A",
+        "ref_bch": "aPuw",
+        "ref_btc": "c7jH"
+    },
+    "akun_utama": {
+        "mode_nuyul": "off",
+        "number": "+6288",
+        "change_api": "off",
+        "leave": "off",
+        "msg_bot":"off",
+        "join":"off",
+        "visit":"on"
+    },
+    "setting": {
+        "auto_change_api":"on",
+        "auto_switch_mode": "off",
+        "delete_history":"off",
+        "banyak_msg_bot":15,
+        "banyak_join":10,
+        "banyak_visit":300
+    },
+    "fitur": {
+        "grup_tuyul": {
+            "mode": "on",
+            "chat_balance": "on",
+            "group": "@",
+            "chat": ["Setor Bos"]
+        }, 
+        "proxy": {
+            "proxy": "on",
+            "host":"proxy.digitalresistance.dog",
+            "port":443,
+            "secret":"d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "leave": {
+            "leave": "on",
+            "usia_channel_leave":7
+        },
+        "mode":{
+            "msg":"on",
+            "join":"on",
+            "visit":"on",
+            "auto_wd":"on"
+        }
+    }
+}
